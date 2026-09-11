@@ -6,7 +6,7 @@
 ;; half of a `.cljc` was invisible here. This project needs no classpath
 ;; beyond its own source:
 ;;
-;;   nbb --classpath src:test test/run_portable.cljs
+;;   nbb --classpath src:test test/run_portable.cljk
 ;;
 ;; Every `deftest`-bearing portable namespace has to be named here AND in
 ;; the `run-tests` call: requiring a test namespace registers its vars,
