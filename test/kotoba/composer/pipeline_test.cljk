@@ -1,5 +1,5 @@
 (ns kotoba.composer.pipeline-test
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [kotoba.composer.pipeline :as pipeline]
             [kotoba.composer.track :as track]))
 

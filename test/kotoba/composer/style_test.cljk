@@ -1,5 +1,5 @@
 (ns kotoba.composer.style-test
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [kotoba.composer.style :as style]))
 
 (def ^:private valid-prompt-style
