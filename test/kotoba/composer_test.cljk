@@ -1,5 +1,5 @@
 (ns kotoba.composer-test
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [kotoba.composer :as composer]))
 
 (def ^:private valid-request
