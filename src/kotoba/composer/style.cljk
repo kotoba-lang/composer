@@ -6,7 +6,7 @@
 
   Enforces the same copyright invariant the lexicon's own description
   states ('embeddings of unknown-license sources MUST NOT be published as
-  record') and yukkuri's CLAUDE.md copyright-invariants section restates
+  record') and yukkuri's AGENTS.md copyright-invariants section restates
   for BGM/SFX: `publishable?`/`validate-for-publish` below reject an
   `:embedding`-kind style whose `license` is `:unknown` OR absent — a style
   reference can still be CONSTRUCTED for internal review while its license
